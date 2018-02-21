@@ -1,0 +1,10 @@
+body{
+    margin:100px 200px;
+    width: 100%;
+}
+h1.name{
+    color: green;  
+}
+h2.name1{
+    color: blue;
+}
